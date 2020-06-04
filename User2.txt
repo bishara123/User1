@@ -16,9 +16,8 @@ bishara khalil
 ahmad
 yaseen
 jalal
-<<<<<<< HEAD
-=======
 hello form axsos
 welcome man
->>>>>>> dc07f8e... welcome man
+helloooo
+whtas up
 
